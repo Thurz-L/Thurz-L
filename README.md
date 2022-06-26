@@ -3,7 +3,7 @@
 
 - 📚 Estudante da FEA-USP
 - 🐍 Aprendendo Python
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 - 🧠 Fun fact: Aficionado por Psicologia Comportamental
 
 <div align="center">
