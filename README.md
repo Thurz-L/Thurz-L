@@ -3,7 +3,7 @@
 
 - 📚 Estudante da FEA-USP
 - 🐍 Aprendendo Python
-- 🧠 Fun fact: Aficionado por Psicologia Comportamental
+- 🧠 Fun fact: Aficionado por Psicologia Comportamental e Ciência de Dados
 
 <div align="center">
   <a href="https://github.com/Thurz-L">
