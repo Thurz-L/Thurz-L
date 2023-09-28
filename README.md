@@ -1,11 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 
-### Olá! Eu sou o Arthur 👋
+### I'm Arthur 👋
 
-- 📚 Estudante da FEA-USP
-- 🐍 Aprendendo Python
-- 🧠 Fun fact: Aficionado por Psicologia Comportamental e Ciência de Dados
+- 📚 Student at FEA-USP
+- 🐍 Learning Python
+- 📈 Contgramação Leader
+- 🧠 Fun fact: Enthusiastic about Behavioral Psychology and Data Science
+
 
 
   
@@ -17,6 +19,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurz-L&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+
+  ### Technologies & tools
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
