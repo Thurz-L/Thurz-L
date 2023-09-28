@@ -7,6 +7,9 @@
 - 🐍 Aprendendo Python
 - 🧠 Fun fact: Aficionado por Psicologia Comportamental e Ciência de Dados
 
+
+  
+
 <div align="center">
   <a href="https://github.com/Thurz-L">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thurz-L&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
