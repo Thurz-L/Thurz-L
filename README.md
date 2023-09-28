@@ -18,9 +18,4 @@
   
   ##
  
- 
-  ![Snake animation](https://github.com/Thurz-L/Thurz-L/blob/output/github-contribution-grid-snake.svg)
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Thurz-L&repo=Thurz-L&theme=react)](https://github.com/Thurz-L/Thurz-L)
- 
 </div>
