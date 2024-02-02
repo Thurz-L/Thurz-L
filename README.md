@@ -5,7 +5,7 @@
 
 - 📚 Student at FEA-USP
 - 🐍 Learning Python
-- 📈 Leader of the study group called Contgramação
+- 📈 Leader of the study group "Contgramação"
 - 🧠 Fun fact: Enthusiastic about Behavioral Psychology and Data Science
 
 
