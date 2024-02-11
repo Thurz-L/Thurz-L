@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&duration=6000&pause=1000&color=E25908&background=282828&center=true&vCenter=true&width=500&lines=My+name+is+Arthur!+%F0%9F%91%8B%F0%9F%8F%BD;Welcome+to+my+GitHub+profile." alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="MasterHead">
 </p>
 
