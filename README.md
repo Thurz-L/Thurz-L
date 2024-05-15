@@ -18,21 +18,18 @@
 
 
   
-### GitHub Stats
+# My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="42" style="vertical-align: middle">
 
-<div align="center">
-  <a href="https://github.com/Thurz-L">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thurz-L&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurz-L&layout=compact&langs_count=16&theme=dark"/>
+<a href="https://github.com/Thurz-L">
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Thurz-L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurz-L&layout=compact&langs_count=7&theme=tokyonight"/>
+</a></div>
+
+
+<div align= center>
+ 
+![snake gif](https://github.com/Thurz-L/Thurz-L/blob/output/snake_gif_github.svg)
+
 </div>
-<div style="display: inline_block"><br>
-
-  ### Technologies & tools
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-
-
-  
-  ##
  
 </div>
