@@ -29,5 +29,3 @@
 <div align= center>
  
 ![snake gif](https://github.com/Thurz-L/Thurz-L/blob/output/snake_gif_github.svg)
-
-</div>
